@@ -11,5 +11,5 @@ How to run and test the program:
 -To test the program after it has been loaded either use:
 	(load "extra/test.lisp")
 
-Or enter your own set of points, formatted like:
+	Or enter your own set of points, formatted like:
 	(jarvis '((A # #)(B # #) ... (Z # #)))
