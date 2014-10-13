@@ -19,4 +19,5 @@ Or enter your own set of points, formatted like:
 	(jarvis '((I1 X1 Y1)(I2 X2 Y2) ... (In Xn Yn)))
 	
 Where 'X' and 'Y' are real numbers and 'I' is a unique identifier for each point.
+
 If in doubt, see 'extra/test.lisp' as an example.
