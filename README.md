@@ -16,6 +16,6 @@ How to run and test the program:
 	
 Or enter your own set of points, formatted like:
 
-	(jarvis '((A x1 y1)(B x2 y2) ... (Z x3 y3)))
+	(jarvis '((n1 x1 y1)(n2 x2 y2) ... (n3 x3 y3)))
 	
-Where 'x' and 'y' are real numbers.
+Where 'x' and 'y' are real numbers and 'n' is a unique identifier for each point.
