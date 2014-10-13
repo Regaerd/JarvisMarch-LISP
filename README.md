@@ -16,6 +16,7 @@ How to run and test the program:
 	
 Or enter your own set of points, formatted like:
 
-	(jarvis '((n1 x1 y1)(n2 x2 y2) ... (n3 x3 y3)))
+	(jarvis '((I1 X1 Y1)(I2 X2 Y2) ... (In Xn Yn)))
 	
-Where 'x' and 'y' are real numbers and 'n' is a unique identifier for each point.
+Where 'X' and 'Y' are real numbers and 'I' is a unique identifier for each point.
+If in doubt, see 'extra/test.lisp' as an example.
