@@ -16,6 +16,6 @@ How to run and test the program:
 	
 Or enter your own set of points, formatted like:
 
-	(jarvis '((A x y)(B x y) ... (Z x y)))
+	(jarvis '((A x1 y1)(B x2 y2) ... (Z x3 y3)))
 	
 Where 'x' and 'y' are real numbers.
